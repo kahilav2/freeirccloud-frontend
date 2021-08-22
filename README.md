@@ -1,5 +1,7 @@
 # freeirccloud-frontend
 
+FreeIRC is a IRC service running at https://freeirc.cloud 
+
 - Persist connection to multiple networks. Available networks: IRCnet, QuakeNet.
 - Access IRC using your mobile phone, desktop PC, or any device with a browser on it.
 - Upload pictures within seconds and share them with other users.
