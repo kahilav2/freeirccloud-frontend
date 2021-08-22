@@ -1,0 +1,1 @@
+Contains logic for IRC-related communication.
