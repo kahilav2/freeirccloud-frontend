@@ -9,7 +9,7 @@ FreeIRC is a IRC service running at https://freeirc.cloud
 
 ## Features
 - Support for the following IRC commands:
-  - JOIN, PART, MESSAGE, QUIT, MODE, KICK
+  - JOIN, PART, MESSAGE, QUIT, MODE, KICK, OP, TOPIC, NICK, WHOIS
 - Uses Firebase authentication
 - Mobile (web)/Windows/Mac/Linux clients (electron.js)
 - Support for QuakeNet and IRCnet
